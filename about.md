@@ -1,10 +1,9 @@
 ---
 layout: page
-title: A minimal blogging theme
+title: A few words about me
 ---
 
-<p class="lead">I'm Bradley Taunt, a designer/developer hybrid, and this is my personal jekyll theme used on <a href="https://bradleytaunt.com">bradleytaunt.com</a>.</p>
+<p class="lead">I'm Silvio Gulizia, a writer with a deep passion for everything tech.</p>
 
-I work as the Senior Product Designer at Benbria in Ottawa. My passion lies in building reusable and maintainable CSS, with a focus on accessibility and web performance. Articles written on this site are a reflection of that passion.
+This blog is actually a block notes full of interesting things I decided to collect at some point.
 
-Have questions or suggestions? Feel free to hit me up on [Twitter](https://twitter.com/bradtaunt). Interested in some of my open source projects? Check out my [repos](https://github.com/bradleytaunt).
