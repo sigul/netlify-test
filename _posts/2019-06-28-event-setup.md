@@ -1,6 +1,7 @@
 ---
 Title: How to Organize an Event
 summary: A list of to do for my job.
+layout: post
 ---
 When it comes to events, there are a lot of things you need to do that usually come together and you lose track of one or more thing. So I decided to keep a list of my event to-dos. Here it is:
 
