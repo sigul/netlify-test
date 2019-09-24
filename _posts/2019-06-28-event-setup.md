@@ -5,6 +5,7 @@ layout: post
 ---
 When it comes to events, there are a lot of things you need to do that usually come together and you lose track of one or more thing. So I decided to keep a list of my event to-dos. Here it is:
 
+0. Define event date and block it on Marco's calendar
 1. Ask bio, pictures, talk title, abstract and presentation to the speaker
 2. define title and setup the landing page and related post
 3. set up email automation (request received, invitation, reminder 1, reminder 2)
