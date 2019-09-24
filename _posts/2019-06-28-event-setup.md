@@ -10,6 +10,7 @@ When it comes to events, there are a lot of things you need to do that usually c
 2. define title and setup the landing page and related post
 3. set up email automation (request received, invitation, reminder 1, reminder 2)
 4. create the event page on eventbrite (be sure to check dates)
+5. change event type and language under "order options" to registration and US lang.
 5. remove automated reminder from eventbrite
 6. book the metting room
 7. send invitation to citizen and list, but before to do that send the same email to yourself and check date, day of the week, and especially links.
