@@ -16,7 +16,7 @@ When it comes to events, there are a lot of things you need to do that usually c
 7. send invitation to citizen and list, but before to do that send the same email to yourself and check date, day of the week, and especially links.
 8. create a calendar reminder for founders
 9. send invitation to citizen (be sure to insert date, time and location in the email)
-10. pulish on social network
+10. publish on social network
 11. send invitation to others in our list
 12. schedule reminders
 13. schedule citizen reminder for starting time
