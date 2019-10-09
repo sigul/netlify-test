@@ -8,6 +8,10 @@ When it comes to events, there are a lot of things you need to do that usually c
 0. Define event date and block it on Marco's calendar
 1. Ask bio, pictures, talk title, abstract and presentation to the speaker
 2. define title and setup the landing page and related post
+3. Call Michele for the stage
+4. Send email to Ciccio to book the catering
+5. Block guarco for photo and video
+5. Evaluate if an hostess is required.
 3. set up email automation (request received, invitation, reminder 1, reminder 2)
 4. create the event page on eventbrite (be sure to check dates)
 5. change event type and language under "order options" to registration and US lang.
